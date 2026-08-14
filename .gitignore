@@ -1,0 +1,23 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+*.env
+!.env.example
+
+# Google OAuth (Gmail) secrets
+credentials.json
+token.json
+
+# Node
+node_modules/
+dist/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
