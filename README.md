@@ -1,5 +1,3 @@
-Yes — if Telegram alerts and the learning loop will be part of the submitted version, include them in the README now. I’d update it to this:
-
 # Attention Buddy
 
 **Attention Buddy is an AI-powered attention management assistant for solo founders and small businesses.**
